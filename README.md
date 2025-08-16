@@ -17,7 +17,7 @@ Anugrah M V - Full Stack & AI Developer
 
 
 <!-- Introduction -->
-
+<h1 align="center">Hi 👋, I'm Anugrah M V</h1>
 <h3 align="center">Full Stack Developer | AI & Machine Learning Enthusiast | India 🇮🇳</h3>
 
 <p align="center">

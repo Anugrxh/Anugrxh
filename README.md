@@ -6,11 +6,18 @@ Upgraded GitHub Profile README.
 
 <!-- Banner Image -->
 <p align="center">
-<img src="https://placehold.co/1280x400/6a11cb/2575fc?text=Anugrah%20M%20V+-+Full%20Stack%20%26%20AI%20Developer&font=montserrat" alt="Anugrah M V - Full Stack & AI Developer" style="border-radius:10px;">
+<img src="https://placehold.co/1280x400/1e1e2e/ffffff?text=%20&font=monospace&bg=code" 
+     alt="Anugrah M V - Full Stack & AI Developer" 
+     style="border-radius:10px; background-image: url('https://i.ibb.co/fQ2SszP/code-bg.png'); background-size: cover; padding: 40px; color: #00ffcc; font-family: monospace;">
 </p>
 
+<p align="center" style="margin-top:-120px; font-size:26px; font-weight:bold; color:#00ffcc; font-family:monospace;">
+Anugrah M V - Full Stack & AI Developer
+</p>
+
+
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Anugrah M V</h1>
+
 <h3 align="center">Full Stack Developer | AI & Machine Learning Enthusiast | India 🇮🇳</h3>
 
 <p align="center">

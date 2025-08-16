@@ -6,7 +6,7 @@ Upgraded GitHub Profile README.
 
 <!-- Banner Image -->
 <p align="center">
-<img src="https://placehold.co/1280x400/1e1e2e/ffffff?text=%20&font=monospace&bg=code" 
+<img src="https://wallpaper.dog/large/5545710.png" 
      alt="Anugrah M V - Full Stack & AI Developer" 
      style="border-radius:10px; background-image: url('https://i.ibb.co/fQ2SszP/code-bg.png'); background-size: cover; padding: 40px; color: #00ffcc; font-family: monospace;">
 </p>
